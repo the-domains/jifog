@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8512545
+  brandStrength: 0.8598391
+  lightness: 0.5752688
+  rhythmicContrast: 0.5125448
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.3064516
+name: jifog
