@@ -1,3 +1,7 @@
+name: jifog
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.254
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8512545
-  lightness: 0.5752688
-  brandStrength: 1
   brandColors:
     - '#F0EBF1'
     - '#040403'
     - '#EBD688'
     - '#797478'
     - '#A29CA2'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.5125448
-typography_spectrum: 0.3064516
-layout_spectrum: 1
-name: jifog
+purpose: []
